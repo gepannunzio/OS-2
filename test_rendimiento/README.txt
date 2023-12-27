@@ -1,0 +1,1 @@
+Estos son los archivos necesarios para replicar el test de rendimiento. No son parte del TP en sí, pero son incluídos por completitud. Hay gráficos en el notebook de Jupyter que no se usaron en el informe final del TP.
